@@ -3637,4 +3637,14 @@ a.hideNavItem.ajax {
 }
 
 #pma_navigation_tree>ul,
-#pma_console_container {display: none}
+#pma_console_container {display: none}#pma_console_container {display: none}
+
+#pma_navigation,
+#pma_navigation_content {
+	padding-bottom: 45px;
+	box-sizing: border-box;
+}
+
+#pma_navi_settings_container {
+    display: none;
+}
